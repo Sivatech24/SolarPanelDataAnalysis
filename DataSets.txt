@@ -1,0 +1,11 @@
+Solar Panels :
+
+Solar panels and solar farms in the UK - geographic open data (UKPVGeo)
+https://datasetsearch.research.google.com/search?src=2&query=Solar%20panels%20and%20solar%20farms%20in%20the%20UK%20-%20geographic%20open%20data%20(UKPVGeo)&docid=L2cvMTF2ZDZ6cDh0OQ%3D%3D
+https://zenodo.org/records/4059881
+https://catalog.data.gov/dataset/?q=solar&res_format=CSV
+https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?datasetId=836676&sortBy=voteCount
+
+Waste sorting using computer vision:
+
+https://www.kaggle.com/datasets/haseebindata/garbage-classification

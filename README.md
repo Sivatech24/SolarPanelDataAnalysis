@@ -45,3 +45,68 @@ https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?datasetId=
 *SARIMA model
 *Plotting SARIMA results
 *Comparing ARIMA and SARIMA forecasts
+
+# AI-Driven Sustainable Energy Management
+
+## Overview
+This repository contains code, datasets, and notebooks for analyzing and optimizing solar energy production using AI-driven techniques. It focuses on forecasting solar power generation, predicting inverter failures, and optimizing energy efficiency through supervised learning algorithms.
+
+## Features
+- **Solar Power Analysis**: Includes Jupyter notebooks for analyzing solar panel efficiency.
+- **Failure Prediction**: Uses machine learning techniques like Random Forest and Logistic Regression.
+- **Hyperparameter Tuning**: Implements k-Fold Cross-Validation for optimizing models.
+- **Visualization**: Provides plots for data analysis and insights.
+- **Web Application**: Python-based application for solar panel data analysis.
+
+## Repository Structure
+```
+├── DataSet/                       # Contains datasets for analysis
+├── Documentation/                 # Documentation files
+├── ElectricityAnalysis/            # Scripts for analyzing electricity consumption
+├── Images/                         # Images and plots for visualization
+├── Jupyter Notebook/               # Jupyter Notebooks for data analysis and modeling
+├── DataSets.txt                    # List of datasets used
+├── LICENSE                         # License file
+├── README.md                       # Repository documentation
+├── RandomForestToPredectionOfFailure.ipynb  # Random Forest model for failure prediction
+├── SolarPanelAnalysisPage.py       # Python script for analyzing solar panel data
+├── SolarPanelDataAnalysis1.ipynb   # Solar panel data analysis notebook 1
+├── SolarPanelDataAnalysis2.ipynb   # Solar panel data analysis notebook 2
+├── SolarPlantAnalysisApp.py        # Application script for solar plant analysis
+├── SolarPlantLogesticRegression.ipynb  # Logistic Regression model for analysis
+├── SolarPowerPlantAnalysis.ipynb   # Comprehensive solar power plant analysis
+├── first_plot.png                  # Sample visualization 1
+├── second_plot.png                 # Sample visualization 2
+├── hyperparametertuningprocess.ipynb  # Notebook for hyperparameter tuning
+├── k-Fold Cross-Validation.ipynb    # Notebook for k-Fold validation
+├── requirements.txt                 # List of dependencies
+├── solarpanel.ipynb                 # General solar panel analysis notebook
+├── spa.py                           # Supporting script for solar panel analysis
+```
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-repo-name.git
+   cd your-repo-name
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run Jupyter Notebook:
+   ```sh
+   jupyter notebook
+   ```
+
+## Usage
+- Open and run Jupyter notebooks to analyze solar energy data.
+- Use `SolarPlantAnalysisApp.py` to run a Python-based analysis application.
+- Modify and experiment with different machine learning models for prediction and optimization.
+
+## Live Demo
+- [Solar Plant Analysis App](https://huggingface.co/spaces/CodingMaster24/SolarPlantAnalysisApp)
+- [Solar Panel Analysis Page](https://huggingface.co/spaces/CodingMaster24/SolarPanelAnalysisPage)
+
+## Contributions
+Contributions are welcome! Please submit a pull request with your changes.

@@ -87,8 +87,8 @@ This repository contains code, datasets, and notebooks for analyzing and optimiz
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Sivatech24/SolarPanelDataAnalysis.git
+   cd SolarPanelDataAnalysis
    ```
 2. Install dependencies:
    ```sh
